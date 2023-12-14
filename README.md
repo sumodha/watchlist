@@ -5,3 +5,5 @@ After I finished writing the program, I realized that the limited space of the t
 
 Check out the code for the GUI! 
 https://github.com/sumodha/watchlist.io
+
+Skills Learned: how to create and write to files
